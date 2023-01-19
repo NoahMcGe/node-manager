@@ -1,0 +1,6 @@
+[[connections]]
+name = "Example-Node"
+user = "login"
+password = "secret123"
+ip_address = "192.168.1.12"
+port = 22
