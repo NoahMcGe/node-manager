@@ -11,6 +11,7 @@ I made this to help my brothers (who don't know how to terminal) manage their mi
     default = ["ls","neofetch","pwd","ip a","ping 8.8.8.8"]
 
 <h1>This stores a password in <b>PLAIN TEXT</b> "ssh_connections.toml"</h1>
+
     example:
     [[connections]]
     name = "Miner1"
