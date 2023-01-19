@@ -20,6 +20,6 @@ I made this to help my brothers (who don't know how to terminal) manage their mi
     ip_address = "192.168.1.12"
     port = 22
 
-![alt text](https://raw.githubusercontent.com/NoahMcGe/node-manager/blob/main/img/start.png)
-![alt text](https://raw.githubusercontent.com/NoahMcGe/node-manager/blob/main/img/add_node.png)
-![alt text](https://raw.githubusercontent.com/NoahMcGe/node-manager/blob/main/img/connect.png)
+![alt text](https://github.com/NoahMcGe/node-manager/blob/main/img/start.png)
+![alt text](https://github.com/NoahMcGe/node-manager/blob/main/img/connect.png)
+![alt text](https://github.com/NoahMcGe/node-manager/blob/main/img/add_node.png)
